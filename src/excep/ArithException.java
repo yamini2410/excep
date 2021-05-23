@@ -4,7 +4,7 @@ public class ArithException {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int x = 10;
+		int x = 30;
 		int y = 0;
 		
 		int res = 0;
